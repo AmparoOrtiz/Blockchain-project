@@ -76,3 +76,10 @@ Head over to `test` folder and create a new file to write the tests.
 ## License
 
 [License](LICENSE.txt)
+
+Link to Etherscan:
+https://sepolia.etherscan.io/address/0x23f73CBA8753b2f9B3C4eC9D619EEA11Bf7971c5
+
+Link to the contract in Etherscan:
+https://sepolia.etherscan.io/address/0xd26806cfa66ee3586f2cd5660eeb4cdd2828b921
+
